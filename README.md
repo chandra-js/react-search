@@ -16,7 +16,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `Deploy `
-react-search-vdan – ./ Successfully deployed to the following URLs: ./
-react-search-vdan.vercel.app
-react-search-vdan-chandra-js.vercel.app
-react-search-vdan-git-main-chandra-js.vercel.app
+react-search-vdan – .\ Successfully deployed to the following URLs: .\
+react-search-vdan.vercel.app .\
+react-search-vdan-chandra-js.vercel.app .\
+react-search-vdan-git-main-chandra-js.vercel.app .\
