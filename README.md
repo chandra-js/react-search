@@ -1,7 +1,7 @@
 
 
 ## Details
-name -Chandra Chowdhury
+name -Chandra Chowdhury .\
 email : imchandrakanta@gmail.com
 
 ### `npm install`
